@@ -1,3 +1,3 @@
 # Twin-Vertical-Wobbler
 
-[![Watch the video](https://drive.google.com/drive/u/1/folders/1BNcZYYvLNRVm4jKi2rR1gvKEtaQz4Drq.png)](https://www.youtube.com/watch?v=D0PgXb16Egc&feature=youtu.be)
+[![Watch the video](https://drive.google.com/file/d/1vFCe9SMEp-barJ6QRPT-V_EEoZGXtBfe/view?usp=sharing)](https://www.youtube.com/watch?v=D0PgXb16Egc&feature=youtu.be)
